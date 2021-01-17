@@ -1,0 +1,19 @@
+
+#getit{
+    display: block;
+    margin: auto;
+}
+#randomnumber1{
+    padding:50px;
+    width:100px;
+    height:100px;
+    margin:10px;
+    text-align:center;
+    margin: auto;
+    font-weight:bold;
+}
+#randomnumber1{
+    background:#333;
+    color:red;
+    font-size: 60px;
+}
